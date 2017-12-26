@@ -1,5 +1,9 @@
 #!/usr/bin/env python3.6
 
+@property
+def some_value:
+    return 4
+
 # Comments!
 # I'm actually putting in entirely new code. 
 
